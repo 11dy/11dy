@@ -28,6 +28,7 @@
 ### Backend  
 <div align="center">  
 <img src="https://img.shields.io/badge/spring Boot-green?style=flat&logo=#6DB33F&logoColor=CC6699"/>
+<img src="https://img.shields.io/badge/Django-black?style=flat&logo=#092E20&logoColor=CC6699"/>
 </div>
 
 </td><td valign="top" width="33%">
