@@ -68,6 +68,7 @@
 <br/> 
 <div align="center">
 <a href="https://velog.io/@11dy" target="_blank">
+</a>
 </div> 
 <br/>  
 
