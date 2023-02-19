@@ -65,11 +65,10 @@
 ## Recent Blog Posts  
 
 
-<br/>  
-
- 
-  
-
+<br/> 
+<div align="center">
+<a href="https://velog.io/@11dy" target="_blank">
+</div> 
 <br/>  
 
 
