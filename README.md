@@ -63,7 +63,7 @@
 
 <br/> 
 <div align="center">
-<a href="https://velog.io/@11dy" target="_blank">
+<a href="https://velog.io/@11dy"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/>
 </a>
 </div> 
 <br/>  
