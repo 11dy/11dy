@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving)
 ![header](https://capsule-render.vercel.app/api?color=auto)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
-![header](https://capsule-render.vercel.app/api?height=500)
+![header](https://capsule-render.vercel.app/api?text=Dong yeol%안녕하세요 백엔드 개발자 이동열입니다.&fontColor=d6ace6)
 
 - 🌱 I’m currently learning springboot and JPA  
   
