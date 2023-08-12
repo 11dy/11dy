@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Dong yeol%안녕하세요 백엔드 개발자 이동열입니다.)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 - 🌱 I’m currently learning springboot and JPA  
   
