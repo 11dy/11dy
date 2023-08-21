@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dong%20yeol-nl-안녕하세요!&fontSize=50&descFontSize=20)
 
-- 🌱 I’m currently learning springboot and JPA  
+- 🌱 I’m currently learning springboot and spring data JPA  
   
 
 <br/>  
