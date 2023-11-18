@@ -5,41 +5,20 @@
 
 <br/>  
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set 
+- Language: Java, python
+- Framework: Spring, Spring boot
+- DB: MySQL, MariaDB
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11dy&layout=compact)](https://github.com/11dy/github-readme-stats)
 
-### Frontend  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<img src="https://img.shields.io/badge/spring Boot-green?style=flat&logo=#6DB33F&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Django-black?style=flat&logo=#092E20&logoColor=CC6699"/>
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
 
 <br/> 
 
 [![11dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=11dy)](https://github.com/11dy/github-readme-stats)
+
+![11dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=11dy&show_icons=true&theme=tokyonight)
+
 <br/>
 
 ## Connect with me  
