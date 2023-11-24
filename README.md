@@ -1,11 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!&fontSize=50&descFontSize=20)
 
-- 🌱 I’m currently learning springboot and spring data JPA  
-  
+- 🌱 I’m currently learning spring data JPA
+- 🌱 Tech Blog: https://velog.io/@11dy 
+
 
 <br/>  
 
-## My Skill Set 
+## Skill 
 - Language: Java, python
 - Framework: Spring, Spring boot
 - DB: MySQL, MariaDB
@@ -18,17 +19,6 @@
 
 <br/>
 
-## Recent Blog Posts  
 
-
-<br/> 
-<div align="center">
-<a href="https://velog.io/@11dy"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/>
-</a>
-</div> 
-<br/>  
-
-
-<br />
 
 ----
