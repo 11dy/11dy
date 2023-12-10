@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!&fontSize=30&descFontSize=30)
-
+</br>
+## About Me
 - 🌱 I’m currently learning Spring boot, Spring data JPA, Spring boot core
 - ⌨ Tech Blog: https://velog.io/@11dy
 - 🙋‍♂️ Resume: https://wholesale-bottle-d43.notion.site/873d4e0a67a841cbb554bf3b282a8c56?pvs=4
