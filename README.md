@@ -21,7 +21,7 @@
 
 <br/> 
 
-![11dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=11dy&count_private=true&show_icons=true&theme=tokyonight)
+![11dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=11dy&show_icons=true&theme=tokyonight&count_private=true)
 
 
 
