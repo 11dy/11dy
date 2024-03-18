@@ -2,7 +2,7 @@
 </br>
 ## About Me
 - 🌱 I’m currently learning Spring boot, Spring data JPA, Querydsl
-- ⌨ Tech Blog: https://velog.io/@11dy
+- ⌨ Tech Blog: https://velog.io/@11dy → https://11dy.tistory.com/
 
 
 
