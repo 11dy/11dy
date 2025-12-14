@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요!&fontSize=30&descFontSize=30)
 </br>
 ## About Me
-- 🌱 I’m currently learning Spring boot, Spring data JPA, Querydsl
-- ⌨ Tech Blog: https://velog.io/@11dy → https://11dy.tistory.com/
+- ⌨ Tech Blog: https://11dy.tistory.com/
 
 
 
