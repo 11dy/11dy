@@ -23,9 +23,3 @@
 #### IDE
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/STS4-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white"/>
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11dy&layout=compact)](https://github.com/11dy/github-readme-stats)
-
-<br/>
-
-![11dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=11dy&show_icons=true&theme=tokyonight&count_private=true)
